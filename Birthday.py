@@ -1,4 +1,4 @@
-#BITHDAY CLACULATION
+#BIRTHDAY CALCULATION
 import datetime
 
 bdate=input("Enter your birth day and month (DD-MM):").split("-")
